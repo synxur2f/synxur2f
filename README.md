@@ -1,40 +1,70 @@
-![Views Counter](https://views-counter.vercel.app/badge?pageId=helifur&leftColor=000000&rightColor=0adb3f&type=total&label=Visitors&style=none)
+![Visitors](https://views-counter.vercel.app/badge?pageId=helifur&leftColor=000000&rightColor=0adb3f&type=total&label=Visitors&style=none)
 
-### Hi there 👋 I'm Arseny,
+### 👋 Hi there, I'm Arseny
 
-A Web developer and Linux enjoyeer :desktop_computer:. I like to write clean and optimized code :keyboard:
+Web Developer & Linux enthusiast 🖥️  
+I enjoy writing clean, efficient, and maintainable code ⌨️
 
-- :bulb: I am interested in learning **web programming** and **low-level development**
-- 💬 Talk to me about Music :headphones:, Memes, Space :milky_way:, Video games :space_invader:
+---
 
-## Stats
+💡 **Interests**
+- Web development
+- Low-level / systems programming
 
-![Helifur's Github stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=helifur&theme=radical)
+💬 **Let's talk about**
+Music 🎧 • Memes 😂 • Space 🌌 • Video games 👾
 
-## My Tech Stack:
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+---
 
-![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://shields.io/badge/react-black?logo=react&style=for-the-badge)
+🚀 Always learning, building, and exploring new technologies
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
-![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
+---
 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23092E20.svg?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
+## 📊 Stats
 
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=synxur2f&theme=radical)
 
-## My Editor
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+---
 
-## My OC
-![LFS](https://img.shields.io/badge/Linux%20From%20Scratch-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+## 🧰 My Tech Stack
+
+#### 🐍 Core Backend & Async
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Asyncio](https://img.shields.io/badge/Asyncio-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+#### 🤖 AI & Data Engineering
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logoColor=black)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+
+#### 🗄️ Databases & Infrastructure
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC00?style=for-the-badge&logo=clickhouse&logoColor=black)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+#### 📈 Monitoring & DevOps
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+#### 🔭 Currently Exploring
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Systems Programming](https://img.shields.io/badge/Systems%20Programming-2C2C2C?style=for-the-badge)
+![Linux Internals](https://img.shields.io/badge/Linux%20Internals-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Concurrency](https://img.shields.io/badge/Concurrency-444444?style=for-the-badge)
+
+---
+
+## 🧑‍💻 Tools
+
+![Neovim](https://img.shields.io/badge/NeoVim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+
+## 🐧 OS
+
+![Linux From Scratch](https://img.shields.io/badge/Linux%20From%20Scratch-FCC624?style=for-the-badge&logo=linux&logoColor=black)
